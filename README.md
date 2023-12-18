@@ -1,3 +1,3 @@
 # Advent of Code 2023
 
-Welcome to my repository containing solutions for Advent of Code 2023. In this repository, you'll find my approaches to each daily coding challenge, primarily using OCaml. The goal of this project is not only to solve the puzzles but also to refine my coding skills and explore new techniques. Feel free to explore, suggest improvements, or use these solutions for learning purposes. Please be aware of spoilers if you haven't completed the challenges yourself!
+Welcome to my repository containing solutions for Advent of Code 2023. In this repository, you'll find my approaches to each daily coding challenge, primarily using C. The goal of this project is not only to solve the puzzles but also to refine my coding skills and explore new techniques. Feel free to explore, suggest improvements, or use these solutions for learning purposes. Please be aware of spoilers if you haven't completed the challenges yourself!
